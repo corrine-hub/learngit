@@ -1,3 +1,4 @@
 test
 bug: on master
 fix bug1: on dev2  commit 1
+fix bug2: on dev2  commit 2
