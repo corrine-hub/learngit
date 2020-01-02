@@ -1,4 +1,1 @@
-git
-init1
-dev: change c.txt
-dev2: changes
+master: c
