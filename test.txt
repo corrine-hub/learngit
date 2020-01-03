@@ -1,3 +1,4 @@
 test
 git new commit 1
 git new commit 2
+git new commit 3
