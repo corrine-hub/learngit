@@ -1,5 +1,4 @@
 test
-bug: on master
-fix bug1: on dev2  commit 1
-fix bug2: on dev2  commit 2
-fix bug3: on dev1  commit 3
+git commit 1
+git commit 2
+git commit 3
